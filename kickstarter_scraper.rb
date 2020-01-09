@@ -19,6 +19,6 @@ create_project_hash
 
 # description: project.css("p.bbcard_blurb").text
 
-# location:
+# location: project.css("span.location-name").children.text
 
 #projects_list > li:nth-child(1) > div > div > ul.project-meta > li > a > span.location-name
