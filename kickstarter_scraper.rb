@@ -13,3 +13,4 @@ create_project_hash
 
 # projects: kickstarter.css("li.project.grid_4")
 
+#projects_list > li:nth-child(1) > div > div > h2 > strong > a
