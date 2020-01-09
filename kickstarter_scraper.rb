@@ -21,4 +21,4 @@ create_project_hash
 
 # location: project.css("span.location-name").children.text
 
-#projects_list > li:nth-child(1) > div > div > ul.project-meta > li > a > span.location-name
+#projects_list > li:nth-child(1) > div > div > ul.project-stats > li.first.funded > strong
